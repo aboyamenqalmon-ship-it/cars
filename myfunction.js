@@ -8,7 +8,7 @@ function validateName() {
   $("#errName").text("");
   return true;
 }
-
+<script src="myfunction.js"></script>
 function validateNationalId() {
   var id = $("#nationalId").val();
   if (id === "") {
