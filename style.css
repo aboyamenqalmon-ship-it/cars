@@ -357,3 +357,10 @@ label {
     overflow-x: auto;
   }
 }
+
+
+p a {
+  color: #d71920 !important;
+  display: inline !important;
+  opacity: 1 !important;
+}
